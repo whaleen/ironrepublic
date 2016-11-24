@@ -196,53 +196,373 @@ the fools of other nations? And when the fools of two nations have been set by t
  
 “Tut. tut.” exclaimed her father, "the romances of history and Sir Walter Scott have corrupted your mind.”
  
-“Kindled rather.” retorted my ally with a vigour that proved she was in earnest. ”I acknowledge my indebtedness to history and Sir Walter and when I read of the deeds of Couer de Lion and Ivanhoe, even of Dalgetty and Debracy, I cannot abide the goody goodliness of a big nation like this that works and
-
-
-eats and slumbers like an ox. What would be the history of the world today if the Iron Republic had been
-founded on the Babylonian empire and its principles had received worldwide acceptances? Try to think
-of a history of the world without an Alexander or Caesar or Frederick the Great, or Bonaparte or
-Washington. Without a Marathon or Thermopylae, without Crusades or Couer de Lion!”
+“Kindled rather.” retorted my ally with a vigour that proved she was in earnest. ”I acknowledge my indebtedness to history and Sir Walter and when I read of the deeds of Couer de Lion and Ivanhoe, even of Dalgetty and Debracy, I cannot abide the goody goodliness of a big nation like this that works and eats and slumbers like an ox. What would be the history of the world today if the Iron Republic had been founded on the Babylonian empire and its principles had received worldwide acceptances? Try to think of a history of the world without an Alexander or Caesar or Frederick the Great, or Bonaparte or Washington. Without a Marathon or Thermopylae, without Crusades or Couer de Lion!”
  
-I was surprised at the energy with which these words were uttered and suspected that the strong
-feeling that prompted them must have been long repressed. My host looked astonished and Mrs. Morris
-turned to her daughter with a glance of concern as though she had suddenly discovered in her traces of
+I was surprised at the energy with which these words were uttered and suspected that the strong feeling that prompted them must have been long repressed. My host looked astonished and Mrs. Morris turned to her daughter with a glance of concern as though she had suddenly discovered in her traces of
 insanity.
-“The history of the world, my dear,” said her father after a moments silence, "we may not alter or
-amend and perhaps would not if we could. It is with the world’s life as with a man’s: the excesses,
-dissipations and sins of early years cannot be blotted out and the experience of them may even serve to
-enhance the virtues of maturer age. Sometimes such experiences become the foundation of a nobler
-and more purposeful life and then they may he recalled without regret. But it is a poor life that does not
-improve with age and the world's life will be unrounded and incomplete if it is not profited by the
-knowledge and experience of the past.” It is not in me to controvert these words so seriously and truly
-spoken, but with my new ally, I was in the predicament of the man in the Indian fable, who made an
-alliance with the tiger and found, after he had bound himself with thongs to that unconquerable beast,
-that he could not run away when he would.
-"I trust you will not be angry with me father, i
-f I seem to dispute with you,” replied Miss Helen with un
--
-yielding firmness, “but can that have been wholly bad in the past, which is the source of all that is most
-beautiful in the present? What is the inspiration of poetry and all great thoughts but the high deeds
-which you impute to the recklessness of the world’s youth? War is cruel, but does not its very cruelty
-provoke nobler sacrifices
-—
-as Mr. Barrington has said
-—
-and a more exalted heroism than the piping
+
+“The history of the world, my dear,” said her father after a moments silence, "we may not alter or amend and perhaps would not if we could. It is with the world’s life as with a man’s: the excesses, dissipations and sins of early years cannot be blotted out and the experience of them may even serve to enhance the virtues of maturer age. Sometimes such experiences become the foundation of a nobler and more purposeful life and then they may he recalled without regret. But it is a poor life that does not improve with age and the world's life will be unrounded and incomplete if it is not profited by the knowledge and experience of the past.” It is not in me to controvert these words so seriously and truly spoken, but with my new ally, I was in the predicament of the man in the Indian fable, who made an alliance with the tiger and found, after he had bound himself with thongs to that unconquerable beast, that he could not run away when he would.
+
+"I trust you will not be angry with me father, if I seem to dispute with you,” replied Miss Helen with un - yielding firmness, “but can that have been wholly bad in the past, which is the source of all that is most beautiful in the present? What is the inspiration of poetry and all great thoughts but the high deeds which you impute to the recklessness of the world’s youth? War is cruel, but does not its very cruelty provoke nobler sacrifices — as Mr. Barrington has said — and a more exalted heroism than the piping
 herdsmen of Utopia ever dreamed of? And may it not be in the plan of creation that sunshine and
 storm, tears and laughter, love and hate, war and peace, shall alternate like day and night to the end of
 time?”
  
-“My daughter,” answered her father gravely. “I am grieved at the low estimation in which you
- seem to
-hold your country, and that condition which has been the desire of the ages, but you are entitled to your
-opinions and I would not have you repress them in deference to me. It is my faith though, that the plan
-of creation contemplates the ultimate elimination of hate and strife and all evil whatsoever. And though
-he may not appeal to youth and a romantic imagination. the piping herdsmen of Utopia, who tends his
-flocks and lives in peace, with clean hands and an up-right heart, is to me, a nobler example of God's
-creation than any medieval swashbuckler that ever drew sword or broke lance to win the silly fancy of a
-foolish lady love. To my mind Professor Hallam, who would walk around a block rather than tread upon
-a worm, is a greater man than Couer de Lion ever was, from every intelligent point of view."
-“It may be wrong and wicked.” cried the beautiful woman vehemently, with flashing eyes and flushed
-face, “and if it is I can’t help it and I don’t care; but I am tired to death of this dreary monoton
-y of peace and prosperity, and the ring of a spearhead upon a breastplate or the clash of swords in a glorious cause would make sweeter music for me than all the piping herdsmen of Utopia. — or all the fiddlers of Ironia, for that matter.” and bursting into tears she rose hastily from the table and left the room. “Well I’ll declare!” exclaimed my host pushing back his chair. “Who can solve the female enigma?”
+“My daughter,” answered her father gravely. “I am grieved at the low estimation in which you seem to hold your country, and that condition which has been the desire of the ages, but you are entitled to your opinions and I would not have you repress them in deference to me. It is my faith though, that the plan of creation contemplates the ultimate elimination of hate and strife and all evil whatsoever. And though he may not appeal to youth and a romantic imagination. the piping herdsmen of Utopia, who tends his flocks and lives in peace, with clean hands and an up-right heart, is to me, a nobler example of God's creation than any medieval swashbuckler that ever drew sword or broke lance to win the silly fancy of a foolish lady love. To my mind Professor Hallam, who would walk around a block rather than tread upon a worm, is a greater man than Couer de Lion ever was, from every intelligent point of view."
+
+“It may be wrong and wicked.” cried the beautiful woman vehemently, with flashing eyes and flushed face, “and if it is I can’t help it and I don’t care; but I am tired to death of this dreary monotony of peace and prosperity, and the ring of a spearhead upon a breastplate or the clash of swords in a glorious cause would make sweeter music for me than all the piping herdsmen of Utopia. — or all the fiddlers of Ironia, for that matter.” and bursting into tears she rose hastily from the table and left the room. “Well I’ll declare!” exclaimed my host pushing back his chair. “Who can solve the female enigma?”
+
+I could not, but the one under consideration had gratified me exceedingly by her strange conduct, though I could not tell exactly why. It is said that women are past finding out and I have never been a careful investigator. but without understanding it. the contemptuous reference to the “fiddlers of Ironia” braced me up immensely.
+ 
+With a woman’s penetrati on, probably Mrs. Morris saw further into the matter than any of us and saying something about girls heads being filled with romance she left the table also and followed her daughter from the room. The meal had been concluded some time before, and as Miss Morris’ unexpected denouement — if the word may be used here, had very naturally put an end to the conversation, my host led the way and we adjourned to the library.
+
+Ten or fifteen minutes after leaving the dining room we were made aware by the ringing of a gong that the carriage had arrived and looking out I saw a handsome vehicle with two seats besides the driver's, standing at the door. My host called for the ladies and they came down immediately. Miss Helen blushed as she entered the room and approaching her father with downcast eyes, kissed him on the cheek. “How now, my young renegade, what means this treason to your country?” he exclaimed holding' her face between his hands and looking at her with mock severity.
+
+“It simply means that the country is all right Ma Pere, but that I am not ready for the millennium," she replied smiling faintly and with that she turned on me a glance that made my heart bound and I mentally snapped my fingers at the “fiddlers of Ironia." There was something in that glance which said plainer than words, that there was a bond between us and the alliance would be continued. She was attired for the drive in a blue flannel gown buttoned to the throat like an English riding habit, with jaunty cap, and gloves to match. Her mother was similarly dressed in a dark brown suit, and without delay we passed out to the carriage. 
+
+As we stood by the carriage, while my host was giving the motorman directions as to the course of the drive. Mrs. Morris remarked that I had best sit on the back seat with the professor, as looking forward; it gave a better opportunity for observation. The seats faced each other and whether it was by accident or design.
+
+(I hoped the latter,) her mother had no sooner spoken the words than Miss Helen stepped forward and placed her foot on the step to enter the carriage. I helped her in and her mother after her and then at another lightning like flash of those wonderful eyes which conveyed more meaning than any mere words. I entered the carriage and took my seat opposite to her. Professor Morris followed taking his seat by my side and as I looked into the face of the peerless woman before me, so chaste and beautiful, with just the suggestion of a fine scorn in the curve of the exquisitely chiseled mouth and drooping eyelids. I felt that but for the presence of others, I must have fallen on my knees before her. If Cupid had let me pass through all the years be- fore, unscathed, he was atoning for his dereliction by a most extraordinary display of archery, for with every glance of those glorious eyes an arrow seemed to quiver in my heart.
+Never having experienced the sentiment, sensation — or whatever it is — of love, my resources in that direction were untouched and I came to it like a strong man to a race. I had known this woman less than two days and already I felt as if I had known and loved her for years, so impressed upon my heart was every feature of her face and every speaking glance of those marvelous unfathomable eyes. Indeed, by some strange consciousness it began to dawn upon me that I had looked upon that face and into those eyes before. Was there truth in the theosophical philosophy of Plato, or had I seen her in a dream? It seemed incredible to me that I had looked upon her for the first time, only the day be- fore. It could not be! I could not in so short a time have become so familiar with every lineament and every changing expression of quick intelligence.
+
+When we left my friend's door, we did not go towards the capitol but in another direction, through streets I had not seen before. The houses were unpretentious as a rule, built of brick and stone mostly and everywhere there was an appearance of comfort without ostentation. We passed through miles of shaded streets, by fountains and monuments, through parks and pleasure grounds, finding everywhere beauty, cleanliness and evidences of prosperity. We passed houses of the most distinguished men of the nation, including those of the president, members of the Supreme Cabinet and others eminent for their achievements in the field of science and letters, and there was no noticeable difference between them and the residences of ordinary citizens. There seemed to be no aristocratic quarter and when I proposed to turn through the slums and succeeded in making myself understood. I was informed that there was no slums and nothing corresponding to them.
+
+“Have you then reached that ideal social state where you have no poor?" I asked.
+ 
+“We have at least reached that ideal social state where we have no rich.’’ answered the professor.
+ 
+“Indeed! Do you mean to say that you have no wealthy class at all?”
+ 
+“More." replied my host: “that we have no wealthy person at all."
+ 
+“What!” I exclaimed: “not a single rich man in the entire republic?
+ 
+“Not a single rich man, woman or child in the entire republic and never can be,” was the answer.
+ 
+"I shall not argue about this,” I remarked after a few minutes reflection, "and whether or not it is a desirable condition, it is certainly a peculiar one for a country like this, that seems to be blessed, not only with material resources of every description, but with the skill and energy to utilize them to the last degree. Will you explain to me why it is that in such a country a man of industry and good judgment does not grow rich as elsewhere in the world.” "For the same reason that a man does not lift himself over a stile by the straps of his boots,” answered the professor facetiously. “Simply because it is a feat impossible of accomplishment.”
+ 
+"But why? The conditions seem to be most favourable. ”
+ 
+"In the first place." said the professor." if it were not for debt, interest and unearned increment, men could not become rich even where they are not restrained: and in the second place, here, where we have none of these evils, we anticipate the possibility of such a thing by legislation which renders it impossible.” "But that is what I wish to understand: how do you evade these evils as you call them, on the one hand and anticipate them on the other?"
+
+“Well.” replied the professor, "besides having no debt, interest or un-earned increment, which condition itself is a bar to wealth, we have a graduated income tax which would reach the point of confiscation before even moderate wealth, according to your standards, is attained. For in-stance, all incomes above 800 diems, are taxed ten per cent, and ten per cent, for every additional four hundred diems, which limits the income to forty four hundred diems, for at that point the tax takes the whole. You see this tax limits incomes to a possible sum of twelve hundred diems.”
+
+“But,” said I, “without asking it argumentatively, how can you, who are such a stickler for justice in the abstract, justify this confiscation of a man’s property, when, as you claim, your system is so perfect that it cannot be acquired by dishonest methods.
+
+“Theoretically, it is unjust," assented the professor, “but the object of a truly enlightened government is not so much to vindicate any ethical code, as to secure the happiness and welfare of its citizens. If a particular bull should grow horns so much longer than the rest of the herd as to put it at its mercy, he should be dehorned although it might seem cruel! not because he had acquired his weapons unjustly, but because having them puts it in his power to be unjust. We have ideal political conditions and I cannot conceive how a man with any amount of money here, could use it to the detriment of others, but you remember Alexander's boast that no city was impregnable to him, into which he could introduce an ass laden with gold.”
+ 
+“When you stated just now that you had no such things as debt, interest and unearned increment." I remarked. “I take it that you intended to convey the idea that these were practical nullities above the limit fixed by your income tax. Below that limit I presume a man may use his money in the way that will yield the largest returns.”
+ 
+“He may use it in any legitimate way,” was the answer. “That is, he may buy commodities or employ labor or engage in any enterprise that does not conflict with the statutes. My statement though was absolutely true; there is no such thing as debt, interest and unearned increment even in the most limited sense.”
+ 
+“Then you have no credit system at all?" I asked.
+ 
+“Our people do not know the meaning of the word credit, when applied to commercial transactions,” replied the professor. A man cannot become a debtor or creditor because the law does not recognise any such conditions. The nearest approach to it is the binding force of contracts, but the statutes have been so carefully framed that the obligations of con-tracts cannot be made to partake of the nature of debt. There being no such thing as debt, there can of course be no such thing as interest. And as by the national exchange system, nothing can be sold for more than the average cost of production, one man cannot make much money off of another man's labor."
+
+“It seems then, that one object of your government is to keep the people poor!" “The object.” answered the professor, "is not to keep the people poor, but to keep them in such a condition of equality that one class cannot take advantage of another, but wealth and poverty arc purely relative terms and it cannot be said that the object is any more to keep them all poor than to make them all rich. And when I said that we had no rich people. I meant according to your standard and that of the old world. In the truest sense, our people arc for the most part all rich, having a country abounding with resources of every kind which have been utilized, and being protected from taxes, interest and every form of oppression that could rob them of the fruits of their labor."
+
+"And do you mean to say that you have no taxes either?" I asked in-credulously. "Practically none." my friend answered. "We have a graduated income tax, but only in theory as there is no opportunity for its application and it was only enacted to guard against unforeseen contingencies. There is a tax too, on all unused land of five per cent, of what it is cap-able of producing that being what the state would get from it if it was cultivated. But as this results in the government owning all of the unused land and as any citizen can take possession of and hold all that he can use, free of charge to himself his heirs and assigns forever, that tax is practically inoperative.” "Really." I exclaimed, "the more I learn of this wonderful country, the more I am amazed! But if you have no taxes tell me how this model government is supported."
+
+"The bureau of subsistence and the department of public utilities supply the means necessary for the expenses of the government." answered the professor. "Will you explain to me how this is done?" I asked. "It certainly must be a very complicated system."
+
+"On the contrary." replied the professor, “it is so extremely simple that every merchant and farmer in your country puts it in practice in the conduct of his business. Freight and passenger tariffs on the railroads, canals and navigable rivers and lighting, power, telephone and express services and franchises yield the department of public utilities a sufficient sum, together with the profits derived from the national exchange system, to meet all the expenses of government."
+
+"I see." said I. "The profits of all this business go to the government."
+
+“Yes, to the government." answered my friend, "for to use a fiction of this kind is a convenient way to express the aggregate ownership of the people.” "I can see but one difficulty.” I remarked, "and that is in adjusting these tariffs and profits, as it is impossible to tell what they will yield.”
+
+"That presents no difficulties," was the reply, "as the tariffs and percent-ages for the ensuing year are based on the expenses of the government the year before. For instance, the total cost of operating the government last year was about two hundred million diems of which about five and a half millions are used in defraying the expenses of the government proper, and the balance in operating its ex-changes and utilities. Assuming that the business of these departments will be the same this year as last, it is a simple arithmetical problem to fix the tariffs to raise the necessary amount. As a matter of fact though, in making up the budget for any year, a very liberal margin is allowed and the excess thus accruing is expended by the department of progression in scientific experimentation and new utilities." “You say the actual cost of government last year, outside of running your railroads, exchanges and other utilities, was about five and a half million diems: what is a diem ?"
+
+“It is the value of a day's work and is the unit of our financial system. It is about the value of an American dollar."
+
+"And what is the population of the republic?”
+ 
+"A little over fifty millions."
+
+“It seems incredible,” said I. "that fifty millions of people can be governed for this sum and—"
+
+“Say served for this sum!" interrupted the professor.
+
+“Well served for that sum and I cannot understand it in any other light than that your people have advanced to a higher plane of intelligence and morality than the people of other countries." 
+
+"It may be said without egotism that they have advanced to a somewhat higher plane of intelligence." said the professor, “for the results of it are here to show; but I do not think they are any better morally. Morality and religion is the surplus crop here, as in America and everywhere else. They do not rob and oppress because they have combined for mutual protection against each other.”
+
+
+
+
+ 
+"The entire government seems to be run on the principles of a great trust or corporation," I remarked.
+
+“That’s just exactly what it is." replied my friend. It
+is the logical end and culmination of trusts and monopoly. It is a trust formed of the whole people for purposes of government, commerce, transportation, education and everything else that pertains to their welfare. The cost of the entire system in all its branches, operative, legislative, judicial, educational and penal, amounts to an impost of about five per cent, on commerce, while the tariffs for transportation and other public utilities probably does not exceed one-half of what they are in countries dominated by wealth." I had never had any commercial training, but I knew that it cost all the way from ten to one hundred per cent, of the value of any product in the United States to get it out of the hands of the producer and into those of the consumer. "What is the total business of this vast trust in all branches?" I asked.
+
+"Something like four billions of diems." replied the Professor.
+
+Fifty millions of people in one great trust! and that so organised and safe-guarded that no member could ever take advantage of another. I could scarcely conceive of such a thing, but it was extremely simple in theory and there it was, in successful operation right before my eyes.
+
+"I am beginning to comprehend something of your wonderful scheme of government.” I remarked, "but as one of the first things I learned after leaving my ship was that you do not use metal money as a medium of ex-change. I am curious to learn some-thing of your financial system. How does your medium of exchange originate and on what is it based?"
+
+"I believe." said the Professor, without answering my question, "that our financial system is as near perfect as anything of human origin can be."
+
+"And do you not think your whole governmental scheme is perfect?" I asked in surprise.
+
+“No indeed." replied my friend. "It is ideal in comparison with what has been accomplished in the world before, but the final perfect government is no government at all.”
+ 
+"Why Professor, you cannot mean anarchy!" I exclaimed.
+
+“O no,” he answered, "just no government. When people
+become fully civilized and Christianized, and that narrow delusion called patriotism gives place to world-wide fraternalism, there will be no necessity for government or laws.”
+ 
+“For goodness sake.” I cried, "leave something for heaven and hereafter! But this monetary system, tell me something about that."
+
+"It is all comprehended in these propositions,” said the Professor. The value of anything is what it is worth to man; and it is honestly worth to one man what it costs another man to produce it. Value in a medium of exchange can only inhere when that medium is a commodity of intrinsic worth, or when it represents such a commodity, and then its value is exactly that of the article it represents.”
+ 
+“Very well, go on.”
+ 
+"Where there are no exchangeable commodities of value, there can be no honest medium of exchange because there is no exchangeable commodity for it to represent. Here, the value of everything is based on the average cost of production, and when it passes out of the hands of the producer, he is entitled to its value in anything else he may want. In a crude state of society this exchange is effected by bartering one article for the other directly, or by converting them into pieces of metal or other unscientific forms of ‘money’ of uncertain or arbitrary value and using it as a medium of exchange. But as this medium is an uncertain quantity, depending on the discovery of mines, the vagaries of legislation and the manipulation of the financiers who own and control it, commerce in all commodities becomes a mere shuttlecock in the hands of the money masters, and the value of everything, in their medium, is subject to their will. Under such conditions, it is not strange that in a country where plenty is produced for all. a few roll in wealth and luxury, while many suffer for the actual comforts of life. It is not strange either, that those who control the money are the ones that roll in wealth, while those who do all the work and produce all of the commodities grovel in want. This is the result of ignorance on the part of the producing masses and is about on a par with that fabled transaction in which were concerned two cats, a monkey and a piece of cheese. In the place of that crude and unjust system, the Iron Republic employs a scientific method that is just to all. The value of every product is scientifically fixed by the average cost of production, and when a man produces anything he delivers it to the great popular trust called the government and receives therefor its assientos, which are certificates of its value and deposit. As everything that is produced is placed in escrow just the same, these assientos are exchangeable for any other commodity on the same basis of value. These assientos then, are the circulating medium and not a diem of them can exist outside of the national exchange unless its value in some commodity exists within it. As long as there is a diem's worth of any commodity in the hands of the government exchange, there is outstanding, somewhere, a diem to represent that commodity. When that commodity is withdrawn for consumption the diem is absorbed by the government and the financial incident is closed. These assientos are numbered and dated and must go through the exchange once a year, either in exchange for commodities or new assientos, (they are re-issued every year), so if any are lost or destroyed, after the date of the annual funding they are made good to the loser, if he has preserved the numbers so that his loss can be identified. Under this system no great store of money can be hoarded anywhere, and there is no temptation in that direction as it cannot be made to yield interest or increment. In carrying out this great governmental trust, four billions of diem are issued and absorbed annually, and so the great financial tide ebbs and flows with the regularity and certainty of the tides of the ocean. Best of all, no man can receive value until he produces value, and so we have a great human hive in which there are no drones. This may seem to you a small volume of business for so large a nation, but as middlemen are practically eliminated and there is no wasteful competition, a mutual exchange of commodities is effected with much less trading than in your country.”
+ 
+"And have you no merchants at all.” I asked.
+ 
+“O yes.” was the answer, “we have a considerable number of men engaged in supplying the wants of the people, besides those employed at the exchange, but they can hardly be called merchants, as they are in reality caterers. They establish themselves in locations more convenient to the people of certain sections than the exchange and receive a small advance over the exchange prices merely on account of that convenience. The exchange fixes the price though of everything and the caterers are only paid enough more to pay for this convenience, as the exchange is open for all. Of course this applies only to the commodities that are handled in the exchange: there are many commodities, perishable goods, confectioneries and an endless variety of gimcracks that are not received into the exchange at all and are dispensed by the caterers.”
+
+“Your absolute cash system undoubtedly saves a vast amount of loss and litigation.” said I, “but men are compelled to have accommodation or suffer, and that, it seems to me is where your system would work great hardship.”
+
+“If there was no remedy,” replied the Professor, “it were still better that a few should suffer than many, but the system provides even against this. If a man has nothing he is a pauper, in the language of your country, and could not get accommodation there nor anywhere else. If he has non-perishable property of any kind though, here, he can go to the exchange in his commonwealth and get assientos to the amount of fifty per cent, of the value of the property without interest. Of course he must give a bond for this value signed by freeholders to protect the exchange against loss.”
+
+“Referring to these assientos, is it not possible to counterfeit them?” I asked.
+
+“It might be done." answered the Professor, “although they are printed on socially prepared paper, but as every man who passes one may be required to endorse it. It would be like counterfeiting a bank check in your country, which can be done by anybody. The penalty though, is severe, and as we have no idle class, there is no criminal class, and any kind of a misdemeanor is a rare occurrence in this country."
+
+"I should think." I remarked, "that having to endorse these assientos in every small transaction would be
+annoying."
+
+"They are not used in small trans-actions," was the reply. "They may be deposited and converted into fractional currency at any post office."
+
+"Indeed, and what are the denominations of your money?"
+
+“Our lowest denomination is the milium, which represents five minutes labor. Then we have three minutes, six minutes, and the hora, which is supposed to represent an hours work and as a day's work here is eight hours, the hora is worth about twelve and a half cents in your money. Above this, we have the quarter diem, half diem and diem. In the larger denominations there are one. two three, five and ten diems. Money here represents labor and labor is made the basis, or unit, if I may use that term, of its value. Twelve minimis make a hora: eight horas make a diem."
+
+While this conversation, so dry and uninteresting to the ordinary reader, was going on, many places of interest were pointed out to me and I was keenly alive to the beauties of the city through which we were rapidly propelled. Afterwards we passed out into the country, where on every hand were the same evidences of prosperity I had seen in the city. Modest but comfortable houses, paved roads, every resource of nature taxed to the last degree to sub serve the convenience of man.
+
+"It must have taken a great while." I remarked, "for people to reduce the art of living to this point of perfection."
+
+"On the contrary." replied my friend, "the change was wrought in a very few years. When the people found that it paid to live in this intelligent, scientific way and the spirit of reform got in the air, they went at it with a vim." 
+
+We were going through a pleasant, shady lane, on one side of which were some cattle standing under the trees and on the other, a man plowing in a field with a horse —the first I had seen. We were yet some distance from the farmhouse when hearing a humming noise behind us I looked around and saw a box or a car about as long and thick and about half as wide as a square piano running towards us on two cables stretched on poles. I had noticed these cables and a lot of other wires but I had not learned all of their uses. "Here's another new one on me!" I cried, standing up in the carriage to see the thing go by.
+
+"That is the rural express," said the Professor, laughing, and then he directed the motorman to keep up with it until we passed the farmhouse that I might have an opportunity to see it work if it should have something to deliver there. It was running about thirty miles an hour and we spurted along by it till it passed the house. The box or carrier ran eight or ten feet above the ground and when it reached a pole in front of the house, one of a number of knobs or cranks that projected from the side of it engaged a pin on the pole and several packages were thrust out of the rear end of it and dropped into a box-like receptacle attached to the pole just below. A gong was rung at the same time and a lady came out of the house, lowered the box with a pulley and took out the packages. This rural delivery, the Professor told me, was one of the newest of the public utilities and was just being introduced. It had proved a success and the department of progress intended to put them on throughout the Republic. They were run from the exchanges and post offices and carried, besides mail, packages up to twenty pounds weight. The cables also carried electric light and power currents and the carriers ran in circuits going on round and back to the starting point when empty. Several of them passed us while we were on the line of the circuit and were running continuously. This section of country was an elevated plateau and to the northward could be seen the blue outlines of the Illyrian hills.
+
+The afternoon was perfect with an Indian summer haze, and as we traveled at the rate of about twenty miles an hour we traversed a wide extent of territory. Scenes of Arcadian beauty were spread out everywhere. and as I thought of the miserable hirelings and wage earners of America and the old world, the sweat shops and crowded tenements, the dwarfed and stunted lives that result from the mad struggle for wealth. I said feelingly. "I would to God the poor of my country could come here when they die; it would he heaven to them!"
+
+What more could heaven be?" exclaimed the Professor, stretching out his hand toward the lovely undulating fields. “To live, to labor and to love! Is that not heaven? Un-harrowed by galling apprehension of poverty and want, walking the sweet sequestered vale of life and taking from the hands of all-providing, beneficent nature every good and beautiful thing that can minister to our wants, what more can heaven be than an endless continuation of the same? And this would be the condition of the whole world if men could learn the un-wisdom of selfishness or were but wise enough to combine for mutual protection against themselves!"
+
+His wife gazed upon him with affectionate admiration, but the beautiful daughter looked away listlessly as though she were bored with it all. I felt, with a pang of disappointment, that this beautiful woman must after all be shallow and feeling less, but when, a moment later, she turned to me with a wistful look in her eyes and asked me if I did not think that if one had been born in heaven and had never lived anywhere else, they would grow tired of it, I comprehended something of the ennui that made life tiresome to her even in so blest a country. And again I snapped my fingers at the "fiddlers of Ironia," for said I to myself — although I knew little of the female heart — "no woman would become ennuied with this glorious country if she had really learned to love and the object of her love were here!"
+
+We encountered motorcycles of every description and passed through several shires where the national ex-change buildings, post offices and public schools, looked like the buildings of some old barony or monastery of the middle ages, but with what a difference! These people were great and free with no feudal masters to fatten and fight, or shaveling priests to feast and fatten on the fruits of their toil. Each for all and all for each, not because they were more unselfish than their less fortunate fellowmen but because they had learned that only a few could be great and rich, and acting with the wisdom and power that belonged to the majority, they had mutually agreed that none should be rich and none great except in a noble and unselfish way that made the greatness of one the common heritage and pleasure of all.
+
+Making a wide detour, we came to the Urbana river and followed its course back to the city. It was as picturesque as the Hudson but no palaces lined its banks. Modest and unpretending cottages, comfortable and adequate; many of them beautiful in design, but all simple and unostentatious, as though built more for use than to advertise the station of the owner, faced the wide boulevard that ran by the river like the long winding streets of an old fashioned American village. We had reached the great dam only a few miles from the city and stopped to look at the public buildings where the million-horse power of the mighty river was transmuted into that subtle, incomprehensible force that night and day, ran hundreds of miles of railroad, thousands of electric lights, rural express carriers, mills and other public utilities.
+
+“See!” said the professor as the sun touched the horizon, a great ball of fire, “the grand old sun after lighting and warming us all day, will still by this water he has lifted from the sea, work for us all night!" It was beautiful. Far up the river to a distant bend, the water above the dam lay smooth and placid and flashed like silver. On one side, a steep wooded bank descended from the boulevard to the water's edge where were rustic seats and boathouses at intervals along. On the other side a wall of rock, perpendicular in some places, and seamed and serrated like the rough chased facade of some old giant's castle, rose sheer to the height of nearly a hundred feet, over the edge of which in some places fell great festoons of flowering vines.
+
+”Those lovely banks." said the professor, after I had admired their picturesque beauty, "were once crowned with the villas of the manufacturing, commercial and financial barons of this country. The masses labored for them, the great river toiled for them. Now, where pretentious palaces once vied with each other to advertise their owner's wealth, stand the happy homes of a people who are neither masters nor slaves, and the great river too, is master less, for lo, it works for all!”
+ 
+At this moment, the great sun dis-appeared behind the horizon and as the broad amber bars of light flashed up and expanded like flaming banners in the sky, a deep solemn chime of music came rolling grandly down from towards the city whose outlines could but dimly be discerned against the background of night that loomed behind. On came the music, stately and grand as became the time and scene. Sinking to deep sweet symphonies that seemed to breathe the spirit of blest contentment and repose anon it swelled to magnificent burst of glorious music that carried a note of exultation and triumph like the exulting pean of a worldwide victory of the ages. Unconsciously I uncovered my head under the spell of the divine nocturne and in every direction as far as I could see: on the boulevard or in boats upon the river, men stopped and listened reverentially as to the Angelus. For ten minutes the glorious strain swelled from the “tower of music.’’ rolled out over the fading landscape, and echoed and reverberated along the walls and cliffs of the winding river. And then ceasing, with flash, ten thousand electric lights punctuated the gathering darkness and the great city gleamed in flashing outline like the realisation of a fairy scene in a story of the Arabian Nights.
+
+I looked at my host. His eyes were closed, he sat with such an expression of deep solemnity and peace upon his noble face, that I felt a thrill of awe as though in the presence of an inspired prophet of the olden time. I turned my eyes to the queenly woman that sat before me and the spell had worked not less powerfully on her. Her head was thrown back, her hands were clasped and from her half closed eyes the tears were running down her cheeks. That music was a man's soul, the soul of genius, lavishing itself on earthborn clods with such beauty and power as for the moment to make them too, feel that they were divine. And what was I in the presence of a spirit like this? In the exaltation of that moment, so gross a thing as jealousy could not abide and I felt myself a glowworm with the sunshine beating upon me.
+
+“Fiddlers of Ironia!’’ Never again could I force my lips to frame those words. No one spoke save the motorman, who when the music ceased and the last rhythmic wave was lost in the darkening reaches of the river, uttered a deep “amen.” and at a signal from my host, pulled sharply on his lever and we shot away towards the city.
+
+The critical reader may observe that the conversation and discussions just recorded are better suited to an industrial congress than a drawing room or carriage ride through a beautiful country in the company of beautiful women. But it must be re-membered that the astounding conditions by which I was surrounded were entirely new to me. It was as if a man should be born full grown into the wonders of the 20th century, and as a student and politician my environment impressed me no less by the wherefore than facts of its existence. 
+
+When an inquisitive boy gets hold of a mechanical toy, he scarcely awaits to see it operate before going into it to see how it operates. And so, while I was charmed and enthused by my surroundings and interested in my companions, (deeply in one of them), the emotion of curiosity was upper-most in my mind. The facts of the existence of amazing facts were broadcast before me everywhere. The wherefore of their existence I was reaching after greedily. If I may use such an expression, the is-ness was like a world bathed in sunlight. The why-ness like cloud drifts breaking over the horizon and floating towards me.
+
+All of us being somewhat fatigued with the long afternoon drive, we sat up only long enough after the evening repast to take a resume of the day and then retired. The next morning I held a conversation with Captain Brent over the telephone and then took the train for Aegia. The duties of his office prevented Professor Morris from accompanying me and I anticipated rather a dull ride, but I had no sooner entered my compartment than I discovered that I was in the company of an original character.
+
+"Peace he unto you brother." said he as I took my seat opposite to him in the car.
+
+"The same to you my friend." I replied, not knowing what else to say.
+
+"Do you live in this God forsaken city of the plain?" he asked waving his hand in a general way towards the world outside.
+
+"Only a temporary sojourner." said I. surprised at his words and the solemn tones of condemnation with which they were uttered.
+
+"Even a temporary sojourn in Sodom will do you hurt my brother." said he sententiously "Come out from among them and be ye separate!" saith the Holy Book. Lot was only a temporary sojourner in the city of the plain, but if you will read his subsequent history in the Divine Allegory, you will admit that it could not have been any worse with him if he had lived there all his life. These things were written in the Divine Allegory for our guidance in real life and we do well to take heed lest we too partake of evil and so bring ruin upon us.”
+ 
+“Sir.” I said looking at him in astonishment. “I am a stranger here and I must confess that your language is beyond my comprehension. If I may make bold to ask, who and what are you?”
+ 
+"I perceive that you are indeed a stranger.” remarked the man with an unconscious swell of pride in his voice, "or you would not need to ask that question. I am the voice of one crying in the wilderness 'prepare ye the way of the Lord, make His paths straight!' My name is Moses and I am the founder and head of the Zionists. Unto us is committed the work of repairing the broken down walls that the people may go in and out in peace. Have you not read the 'Torchlight of Truth'? I assured him that I had never seen it.
+
+“Aha!” he cried, clenching his fist and shaking it at the universe at large. "The powers of darkness conspire to keep the light from the people but the truth is mighty and will prevail. Read this (pulling out a newspaper, the first I had seen, from a pile under the seat and handing it to me), and when you have read it change your garments, wash your flesh in pure water and come into the fellowship of Zion.”
+ 
+I glanced at the paper, which was printed in old English and saw that it was made up like many similar American publications of lamentations, proclamations and execrations and was against everything in general and the Iron Republic in particular.
+
+"Why is it,” I asked, “that you employ newspapers while all other news and general intelligence is diffused by the telephone?”
+ 
+“Because of a conspiracy sir, a damnable conspiracy!” pounding his knee with his fist. “In the beginning we put it on the news service, but it was excluded by the department of public utilities on the ground that it monopolised more than half the service while it was demanded by only a few people. And yet sir, we put on only about one hundred thousand words a day. Think of it sir, the Divine Truth suppressed because there was much of it and only a few people wanted to hear it! The very reasons why it should have been given even if it monopolised the whole service!”
+ 
+“I don’t quite agree with you there.” I interrupted. “As citizens of the Iron Republic as I understand it and contributing to its maintenance, I should say you were entitled to the benefit of the news service in the pro-portion that your numbers compare with the population of the country at large. No more than that, but certainly that much if it is the ideally representative government that it is claimed to be."
+
+"God's curse on the ideally representative government it is claimed to be!” shouted my strange companion violently. “What does it represent sir? Men, not God! The human and not the Divine! God is the creator of all things in heaven and earth and should rule in both, not men. I am happy to say that Zionists do not contribute to the maintenance of such a government except in so far as they are compelled to by the use of the public utilities. They have things in common and hold themselves aloof from the exchanges so that they cannot be taxed for the support of such an iniquitous Babylon.”
+
+“My dear sir.” I remarked quietly. “I am a stranger to you and your creed and do not wish to enter into any discussion, but I cannot conceive how the creator of the world can rule in it except as he does by the laws of nature which seem to me to be inadequate for the government of a civilised state.”
+ 
+“You cannot see how the Creator can rule the world!” he exclaimed. “None are so blind as those who will not see. Read my book on ‘Theory of Divine Government!' How did He rule Israel in the Divine Allegory? Was it by voting and drawing lots and putting Smith, Smate and Smathers in office over His people? because they happened to draw their seals out of a wheel? I say no! He called and anointed his servants to rule over His heritage, to give laws and make His will known to men!”
+ 
+"Ah!” I exclaimed, catching his drift, “you mean that all ruler ship should be in the hands of those only who are called and inspired for that purpose." "That is exactly what I mean,” he answered. "If the people are ruled by men who are divinely called to that high function, they must be ruled ac-cording to the will of the Supreme Ruler which is the only perfect way.”
+ 
+“But how could we know who were called to these high offices?” I ventured to enquire.
+ 
+“How did the people know in the Divine Allegory that Moses and Samuel and Paul and David were called? Because it was revealed to these men and they made it known to the people. How do I know that I have been called to rule this nation in the name of the Lord? Because it has been revealed to me and I must make it known to a stubborn and stiff-necked race, whether they will hear or whether they will forbear. The powers of darkness are leagued against the truth, but the arm of the Lord is not shortened and He will triumph gloriously over His enemies!”
+ 
+“So!” I mentally ejaculated, "cranks are not the result of environment, but of our common human nature for they breed them even in the Iron Republic.
+
+“My friend.” I remarked, not wishing to argue with him as I had had some experience with this genus in America, "I have no controversy with you, being at the present time a student, an humble pupil of any who will teach me; but several times you have referred to a divine allegory. What do you mean by that, the Bible?”
+ 
+“The Divine Allegory, my brother, is the Holy Word that has been given to man in figures and emblems for his guidance in the stern realities of actual life. It is called the Bible, or Word, and gives us knowledge of the will and relations of the Divine to the human.”
+
+“But,” I asked, “why do you call it an allegory? Is it not a record of the real facts of God’s dealings with man?”
+ 
+“Why certainly not.” he replied! that were impossible.”
+ 
+“But why impossible?” I persisted.
+ 
+“Simply because there is no possible basis for such real facts. Where is your Egypt and Palestine and Jerusalem and Babylon in real life? Where is your Dead Sea and Mount Sinai and Rome and Athens?” And he gave me a look of pitying triumph.
+
+“Where?” I retorted somewhat confused by his confident air, bluffed, as we say in America, “why they are where they have always been, of course. Egypt is in Africa, Palestine is in Asia. Rome is in Italy and Athens is in Greece. What's the matter with you anyhow, been eating prunes?"
+
+“So my brother!” (with a commiserating leer,) "do you cover one impossibility with another!
+
+Where then is your Africa, Asia, Italy and Greece?”
+ 
+"Where are they?" I replied still further confused by his domineering insistence, “why they are where they have always been too, of course.”
+ 
+"Well my brother you ask me to teach you and yet you appear to know far more than I do. I have been through every province of the country and have circumnavigated its coast and have failed to find these places or anything answering to them.”
+ 
+“Why man,” I exclaimed in amazement, “they are not in the Iron Republic, but on the other side of the world!’.’
+ 
+"I tell you I have been all through and all around It." said he contemptuously, “and I repeat they do not exist.”
+ 
+“What!” I asked, being now convinced that the man was daft, “do you mean to say, that there is no world beyond the confines of this Iron Republic?”
+ 
+“I mean to say that this is the world and if there is any other it has never been discovered.”
+ 
+“Why my friend,” I exclaimed, “your own histories must record the fact that this country was settled by colonists from England as late as the sixteenth century!”
+ 
+"Lies!” said he snapping his fingers contemptuously. “Scholastic lies to deceive the credulous and make foundation for evil practices. The children of the Truth know better."
+
+“Now see here.” I said warming up and getting interested in spite of the whole thing, “you have literature, hundreds of books, histories, philosophies, poems that were written in other countries: how then can you deny their existence?”
+ 
+“Lies all,” he replied waving his hand scornfully as if to brush them out of the way. “All lies my brother.” 
+“You have had ships and men come here from America during your life time; there are men here now that were born in that country!”
+ 
+“All lies!” he reiterated. “Cunningly devised fables to deceive the unwary, but the children of the Truth know better.”
+ 
+“The devil! I’m from America myself!”
+ 
+“Lies, all li--”
+ 
+“Thunderation!” I cried seizing him by the collar and yanking him out of the seat. “Do you mean to call me a lie?”
+ 
+“Help! Help!” he shouted lustily, “the man is crazy!”
+ 
+“You are crazy yourself, you infernal old loon!” I shouted shaking him all over the seats.
+
+“Friends! fellowmen! save me from the clutches of this maniac!” he appealed to the other passengers.
+ 
+“Come and take this damned old lunatic off my hands!” I shouted, still holding on to him. And so as we surged back and forth and other passengers began climbing over seats to get to us, a gong sounded and a moment later the car ran down on the siding at Aegia and the doors flew open.
+
+We must have been fifteen hundred feet above the earth and from that high altitude had a most magnificent view. Mountains could be seen in the blue distance, and rivers winding through sunny fields with here and there a lake that flashed like silver. Many towns and villages were visible from where we floated high up in midair, trains of cars, far below us looked like great, black, jointed worms crawling swiftly along the earth and the crispness of the rarified atmosphere would have chilled us but for the exercise of driving the great double aero plane.
+
+It was exhilarating to the highest degree as we swung around in great ascending circles or hurtled quivering down through the air in long toboggan slides, to leap up again as though sprung from a catapult, when the steering fan was dipped. Helen Morris never looked more beautiful than as we swung side by side under the aero plane and surveyed the panorama of the earth below. During the year of our acquaintance, I had made no more progress in loving or love making than on the first day we met. Always kind, sympathetic, sometimes almost tender, she nevertheless held me at a worshipful distance, never repulsing, but always repressing me in a way that convinced me that my suit was not disagreeable, —but hopeless. No slighting reference had been made to Professor Hallam since the clay when in her impetuous argument with her father she sneered at the fiddlers of Ironia, and indeed, her conduct afterwards indicated repentance for her hasty and unjust words, for in her subsequent manner towards him in my presence she seemed desirous to make atonement by being especially kind. She was interested in me, that I was sure of, and when I achieved some notoriety by winning the somewhat famous “gangplow" case against the state, and began to be talked about as the brilliant attorney from America, her elation was so sincere and apparent as to give me the hope that I had won two suits at the same time; but when I would have improved the occasion to press my claim for her heart and hand, she protested declaring with tears that I gave her great pain and begged me to desist. Notwithstanding, she seemed to be happier with me than with Professor Hallam and I reached the conclusion after close observation that her hand had been promised to him and she was too proud or too true to draw back when she found that her heart could not be given with it. I had yielded to my fate and while improving every opportunity to bask in her presence. I no more spoke of my love. But this glorious afternoon I found it hard to repress the promptings of my heart. She looked so happy and all nature seemed so glad, that I could not bring myself to feel that I was a finally rejected lover.
+
+The novelty and delight of my position made me again to doubt the reality of it all and looking into her eyes that beamed as tender as the blue sky above us. I said, “this must be heaven materialised and modernised.” “If so, then a good many features were eliminated in the process,” replied my fair companion.
+
+"I care not what is lacking so long as that feature which makes it heaven be here." I said, looking straight into her deep brown eyes.
+
+"And pray what is that?" she asked.
+
+“The angelic!"
+ 
+“But for the testimony of the Good Book which records that he was cast out. I would be tempted to retort that Lucifer is also in evidence," She replied blushing and laughing.
+
+"His was a sad fate," said I "but not so sad as mine, for he was shut out forever from the sight of the bliss which he had lost, while I. alas, must endure the double grief of losing what is more than heaven to me and then seeing another enjoy what I have lost!” She blushed deeply and dropped her eyes before my ardent gaze, and then turning her head looked away towards the blue hills that broke the northern horizon.
+
+“After all,” she said, and speaking, as much to herself as to me. "after all, the Christian philosophy teaches that the real heaven and true, the peace which is above all earthly passion, is as much the fruit of sacrifice as of love. And turning her eyes full upon me, “perverse and impulsive as I am sometimes, I yet believe that I am capable of suffering rather than that I should be the wilful cause of suffering in another.” I began vehemently to protest against any philosophy that would make two people miserable for the chance of making one happy, when my ear caught the sound of a wavering melody above us, which seemed to come down from heaven itself.
+
+“Hark! What is that sweet sound?" My companion listened a moment and then her face clouded. “Don't you know? That is Professor Hallam and his eolian harp following us. Let’s dip!” and jerking the steering fan with all her force, we flew down an aerial incline five hundred feet or more with such velocity as almost to take my breath. In making these dips or downward glides, only a slight inclination is necessary to send the aero plane whizzing through the air with the speed of an arrow, but my companion, either with reckless abandon or by accident, threw, our machine down almost to an angle of forty-five degrees and when, at the bottom of the incline, the head was thrown up to make it leap into the air again, the great aero plane bellied upward with a strain that made the frame bend and quiver and then with a report like the crack of a pistol it burst almost from end to end and seeming to shudder for a moment, began to drop towards the earth.
+
+In this moment of deadly peril. I believe that all that was best and nob-lest in me asserted itself and like a flash it occurred to me that the rent canvas while not sufficient to bear up two would probably drop gently enough with one to avoid fatal consequences. With the thought came the resolve and in less than a second after the aero plane began to fall I had thrown loose the strap that bound me to my seat and rising upon the pedal leaned over until my lips almost touched the blanched face of the woman I loved, and shouted.(for the whipping of the rent canvas made a noise like that of a hurricane.) “it is death for one and I love you and can die for you!" “Then let it be death for both." she cried letting go of the bar and throwing both arms around my neck with a vice-like grip, "for I love you and cannot live without you!”
+ 
+"One kiss, oh my darling!" pressing my lips to hers with a thrill that made me to forget the peril of death, and then throwing myself forward, dropped from the pedal. But the fair arms about my neck were strong and though I struggled to break loose, knowing that the velocity at which we were falling meant certain death for both of us, they held me fast. Down, down we fell with a quivering fluttering motion like a winged bird dropping to earth, and choked to blindness and suffocation I was expecting to feel the impact that would crush us against the ground, when I became dimly conscious of a fierce shrieking sound above us and then our downward motion seemed to be arrested. A moment later, we struck the earth with a shock that seemed to break every bone in my body. With a great wave of thankfulness, I realised that we were saved and disengaging the fair arms, that still wound around my neck like bands of steel. I struggled to my feet and hastily unbuckling the strap that bound the beautiful form of my heart’s idol to the wrecked machine, dragged her fainting from under the aero plane.
+ 
+My first concern was to ascertain if she were killed or injured and laying her gently on the grass, I found to my unspeakable joy that she was alive and bore no marks of injury. Loosing the close fitting bodice at the throat that she might breathe more freely, and fanning her vigorously with my handkerchief. I was rewarded in a few moments by seeing her open her eyes and look up at me with an expression of inexpressible tenderness.
+
+“O my love!" she said holding up her hands to me. "then you would in - deed have died for me!”
+ 
+"A thousand times." I cried rapturously, seizing her hands and covering them with kisses. “Now you shall be mine forever and ever!" “No, no. it cannot be!" she exclaimed hastily, withdrawing her hands and springing to her feet. "What does this mean?" running back to the aero plane with an expression of terror. I followed her and saw with astonishment that another aero plane was foul with ours and lay upon it. "What indeed!" I cried, seizing the end of it and lifting it up.
+
+"Oh, don't you, —can't you see that it is Professor Hallam's? Don't you see his harp? Oh my God!" and with a shuddering cry of horror she covered her face with her hands and fell upon her knees moaning and crying.
+
+Then it dawned upon me that the noble man had swooped down and attaching his machine to ours had thrown himself to death to save our lives! Leaving the weeping woman I ran to a group of people who had gathered some little distance away and were talking and gesticulating wildly and there, crushed and dead lay the noblest man and greatest genius that ever lived. In his Godlike nobility of soul, he had caught our aero plane several hundred feet above the earth and seeing that it could not sustain all and prevent us from being crushed against the earth, he had thrown himself down to a horrible death that his affianced might escape with his rival! I wonder not that at last, when earthly passion had been chilled by the cold touch of death and the dross of mortality scarce intervened, that it was of him she thought, that it was the wondrous melody of his nocturne that she heard above the roaring of the frozen sea, rolling down from the beyond ere she passed. And I felt no pang of jealousy! If, in the house of many mansions, (where there is no marrying and giving in marriage, but all are as the angels of God in love and purity,) — I may be accounted worthy of the humblest station in their sphere, I shall be content. And yet she loved me and not him! 
+
+Kneeling by him I raised the noble head and chafed the poor broken hands that held within them the potency of such divine harmony as the world will never hear again, but the great soul had passed! Death was doubtless instantaneous, for though his face was unmarred his body was horribly crushed and broken. Dis-patching one of the bystanders to convey intelligence of the accident to the city. I went back and raised the weeping girl who was to have been the dead man's wife. “My darling." I said lifting her gently, "you would have been true to him and he was a God-like man and worthy of your troth: but surely the hand of providence is in this terrible thing. Will you go and look upon him?' Taking my arm without speaking I led her to where our saviour lay upon the ground and with a solemn grace and dignity that was really majestic, she walked around to the dead man's feet and looked long and calmly at his face. “Thou wert too pure and great to be loved as a man,” she spoke at last, “and in the presence of thy dead clay I feel as unworthy as Guinevere at the feet of the pure and royal Arthur. Alas! the world has lost its greatest spirit and I a friend of whom I could never be worthy!” Then as I led her away, “Oh my Lancelot, thou art not and never can be so good or great a man, and yet I love you!"
+
+For months, my beautiful wife had been fading like a flower. Even on shipboard and amid the excitement of the wildest storm, she seemed listless and totally indifferent to her surroundings.
+
+The boding sadness that began to come upon her after the terrible accident that resulted in the death of Professor Hallam, never left her, and while she sometimes simulated vivacity. her gaiety pained rather than pleased me, for my love penetrated her sweet little deception and I knew that it was for my sake that she pretended what she did not feel.
+
+I had fondly hoped, and so had her parents, that when she was out of the country and away from the scenes that reminded her of her past her old buoyancy of spirits would return. Indeed but for this and the dreadful melancholia, that grew upon her day after day, we would never have yielded to her desire to undertake the desperate journey to America. But it was not so, and the bitterness of my disappointment amounted to anguish. Every morning on board of the vessel, as on shore, she would awake at the exact moment when the wonderful matins of Professor Hallam had been wont to roll out from the tower of music, and listen wide-eyed and with every faculty strained to the utmost tension of alertness, listening. And as I lay beside her sometimes and held her hand, feigning sleep. I could feel the nervous tremor that agitated her, while her pulse fluttered with the intensity of the nervous strain.
+
+My God! It was terrible that my sweet wife, the most beautiful and gracious woman I ever knew and the only one I ever loved should suffer like that! And at sunset she would listen for the nocturne with the same fever of excitement. Thus as long as we were in latitudes where day and night alternated and when we reached the regions of the pole where there were no sun risings nor settings, instead of becoming better she grew worse, and this intense, preoccupied, listening attitude became habitual. I employed every artifice I could devise to interest her and fix her attention on objects about us and she with the sweetest grace tried to be interested, but even as I held her hand and talked to her with all the animation, I could affect, looking into the fathomless depths of her glorious eyes I would lose her. With the most intense concentration of mind she would follow me and “sense" what I was saying for a few minutes, and then she listened indeed, but not to me! And oh, she tried so hard!
+
+One evening we stood by the rail on the quarterdeck looking out over the hissing brine at the sun, which hung red upon the horizon. It seemed as if it were just ready to sink out of sight though really it had been but slightly above the horizon for many days. As I stood with one arm around her and holding her hand, her gaze was fixed on the red ball of fire that touched the ocean's rim and which was reflected in her eyes like the flashes in an opal. I drew her to me and spoke ardently of what I hoped to accomplish when we reached my own country, even putting my face against hers as I spoke. But I do not think she heard me! Like one hypnotised she seemed totally oblivious of her surroundings, and I saw with a pang of anguish that she was listening for the strains of that glorious nocturne, such as was never heard except from the “tower of music," and such as was never played by any hand save that of the dead master. And then I believed my heart broke! Then a pain struck through my breast that has never ceased from that hour to this, waking or sleeping.
+
+Dropping her hand I fell forward with a groan and catching the rail rested my head upon it. Starting as if she had been struck, my darling came back to herself, and with a cry fell down at my feet and with a torrent of broken words and sobs begged me to forgive her. “Oh my love!” she cried, as the tears ran down her beautiful upturned face, my heart is breaking for you, but I cannot help it, indeed I cannot. Oh! when I cannot see you or hear you my heart aches for you with never ceasing misery. I have struggled and I have prayed, but God will not help me! And I have feared that you — that you might not understand — that you might think — Oh what shall I say? That you might not think that I love you and you only with all my heart! Oh my husband pity me and forgive your poor miserable, unfortunate wife! Oh I — Oh, oh — " and she fell forward with her face against my knees, sobbing and quivering with the violence of her emotion.
+
+Lifting her gently in my arms while my heart was bursting, I carried her down into the cabin and laid her on her bed and with her arms still about my neck as when they held me back from a fearful death that summer afternoon. I fell on my knees by the bedside and with my face against hers, wept with her. And in the dim twilight of the cabin, while the sun hung red upon the rim of the sea, and the billows rustled along the vessel's side with a sad murmur like the sighing of an autumn wind, she told me that Professor Hallam's music had always impressed her in a way she could not understand. That whenever she heard his wonderful matins and nocturnes she seemed to lose herself, and was borne away on the billows of harmonious sound. She told me that she could even divine the music in advance of the playing and knew each bar before she heard it as well as if she had composed it herself. Stranger than all, she said she always knew by some mysterious influence the very moment the music was going to begin, and she knew by that influence, that mysterious something, that the master was playing now, was playing all the time, and while she could not hear the music, by this strange power which dominated her, she felt it and knew what unutterable strains were being rendered in heaven or somewhere. She told me as she lay there with her soft arms about my neck and her dear face touching mine, that if she had the skill to set it down fast enough she could write the grand music that was being rendered day and night and day after day without cessation! At first, she said she only felt it evenings and mornings, and then more and more, until finally when we passed into the zone where there was no alternation of day and night, she felt that he was playing all the time! She could not hear it but she felt it, felt its beauty and could not escape its power! She had kept this from me till now, seeing my suffering, she could no longer conceal it, but told me all, that I might not doubt her love, but pity and forgive her the pain she caused me!
+
+If she had done this at first, the great physicians of Ironia might have cured her of the malady —for such it must have been —and I entreated her to let me take her back then but she would not consent. “Why it has stopped now!" she cried, holding my face between her hands and looking up at me with the love light in her eyes. “It stopped short off when you fell against the rail, and I know he would never play again even to the angels if he knew it caused me sorrow!’ And as I gazed into her face and saw the old look in her eyes I thanked God and prayed that the spell might be broken, and that she might never again fall under the power of the dead man's music.
+
+I knew not that the end was so near and when it came, it was as if God had struck me with a thunderbolt out of a clear sky. For a week, she had not come on deck and had scarcely been on her feet during the time. The hallucination that possessed her had not recurred since the day she told me all and I was sure that in some inexplicable wav her violent emotion at that time had been the means of breaking the spell. But the improvement I had looked for from that did not come and she grew weaker, physically, day by day — or rather from hour to hour, as there was no alternation of day and night.
+
+We had sighted “Barrington strait” and was laying off and on, keeping the towering ice wall in sight and waiting for a wind that would drive us through the current that runs like a millrace through the channel. For hours my beautiful wife, now so frail and white as to seem almost ethereal, had reclined on the lounge in the cabin with her eyes half closed and such an expression of heavenly peace upon her face that I felt awed as though in the presence of an angel. I was sitting at table trying to fix my mind upon a chart that I was making of the ice coast and the entrance to the strait, when with a slight cry she clasped her hands and opened wide her eyes with that look of listening expectancy I knew so well.
+
+Springing to her side with a half uttered imprecation; I kneeled beside her and caught her clasped hands in mine. “Listen," she whispered excitedly, “he is going to play! I feel it— ah, now he is playing! It is the glorious nocturne he played that evening when we were by the river. Hark! I can hear it — oh, so grand! Her eyes closed and she moved her head forward and front side to side for some moments keeping time.
+
+"Edward, my husband, where are you?"
+
+“I am here, darling." I cried passionately, pressing her hands and imprinting a kiss on her partly opened lips. “Then I am content," and withdrawing one of her hands from mine, she put an arm around my neck. I started to speak caressingly to her when she stopped me with a quick “hush, I am to sing.’’ He is playing the prelude! Now he is motioning me to begin, now!" and inhaling a deep breath she began to sing the great "Peace hymn" of the republic.
+
+"Of old when down the star girt sky,
+
+The angel voices swelled and ran. This was the burden of their cry.
+
+Peace, peace on earth, good will to man."
+
+In the refrain.
+
+“Peace, peace, peace, on all the earth peace.
+ 
+Peace, peace, peace, among all men peace."
+
+Her voice swelled grandly and floated out over the black ocean. She drew my face down upon her bosom and as the triumphant notes of this magnificent hymn — the masterpiece of Professor Hallam — rose and fell, my heart seemed to melt within me, my tears gushed forth and I felt as if my spirit was out borne on the wings of song, far above the sphere of earthly hope and passion; beyond the sound of discord, beyond the veil of darkness, into a great luminous ethereal space that throbbed with the rhythmic measures of the music of the spheres. And as I floated upward on the waves of unutterable melody where there was no horizon and no sky, an angel held me by the hand and about the neck and that angel, I felt, had been my wife!
+
+I was aroused by a touch on the shoulder, and looking up I saw the kind face of Captain Brent bending over me. "Where am I?" I asked in a dazed way. “You are in the hands of Almighty God," replied the Captain solemnly, "who doeth all things well.”
+ 
+I staggered to my feet and gazed about me and then looking down saw the earthly image of my wife still and white as a reclining statue of marble; her eyes were closed as though in slumber, and her lips were parted with a smile, and I realised that God had struck me the final blow. With a calmness, I could not understand. I motioned him out of the cabin and bowed myself in the presence of my dead. 
+
+When I went on deck again the sun had disappeared below the horizon and fingers of golden fire pointed from the rim of the black ocean to the zenith that was flushed with rosy light.
+
+But why should I linger with these sorrowful details? I was not stirred by any emotion and felt nothing except that dull pain in my heart, which has never left me. Captain Brent was like a father and the boys pressed my hand with a silent sympathy that expressed far more than words.
+
+I say I was not moved by any great emotion, except once, when, after Captain Brent had read the solemn service for those who are buried in the sea and motioned to the mate to take me into his cabin while they committed my idol to the deep: then for a time I was crazed. I had nearly gone mad and I believe I would have killed every man aboard the ship before I would have suffered them to cast that loved form into the cold hissing waters of that black sea. 
+
+The weather was favourable and as the billows rolled over and far up on the shelving ledge of the great berg, we had only to ride in on the crest of a wave and drawing the boat up make it fast on the ice.
+
+It was a little mountain of ice and snow and tapering up from the water line it terminated in two glittering pinnacles like crystal spires of a cathedral of glass. Between the two a niche or grotto partly filled with snow and up to this, we climbed by throwing ropes over the jutting crags and lesser pinnacles that projected from the sloping sides above the wash of the sea waves. And so we toiled up from terrace to terrace and from pinnacle to pinnacle until we reached the grot between the spires and there we placed the couch with the earthly form of my beautiful wife and banked the snow about it. Below the black sea sobbed and moaned about the base of the great iceberg, and above the wind sang among the crevices and pinnacles of the resonant ice like an hundred Aeolian harps, swelling in fitful gusts until the triumphant chords rang out like strains from the "tower of music." and there we left her a marble queen upon a crystal throne, alone with God and the angels.
+
+I begged for the love of heaven to be left there with her, but cruel in their kindness they dragged me away to the ship.
+
+And then there burst upon us a scene of unearthly splendour. The aurora australis sprang up around us, and under it, the black sea turned to gold, frosted here and there with the foaming crests of billows. Every rope and spar of the ship stood out white in the spectral light and the great icebergs in their whiteness and stillness and silence, looked like ghosts preternaturally enlarged. The twin spires of the crystal mausoleum gleamed like sapphires and in the grot between, magnified by the wondrous light and irradiated by its ineffable glory was revealed the form of my lost wife. And while the amber and golden light played around the towering berg, radiating from it like a halo, fluttering like banners and angels wings above it, we drew away until it became a mere flashing gem upon the sea of gold.
+
+- The End
